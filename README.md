@@ -4,11 +4,11 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [hello]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [anjana] - [Cusat]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
